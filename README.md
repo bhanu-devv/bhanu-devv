@@ -1,7 +1,7 @@
 # Bhanudeepak Nagumothu
 
-**Data Engineer focused on Python automation, SQL database design, ETL workflows, data cleaning, and data validation. Currently working as a Data Analyst and studying Information Systems at Cleveland State University, where I build automation solutions for utility data processing, ENERGY STAR reporting, Excel-based billing workflows, and sustainability data systems.**
----
+Data Engineer focused on **Python automation, SQL database design, ETL workflows, data ingestion, data cleaning, and data validation**.
+Currently working as a Data Analyst and studying Information Systems at Cleveland State University, where I build automation solutions for utility data processing, ENERGY STAR reporting, Excel-based billing workflows, and sustainability data systems.
 
 ## Projects
 
